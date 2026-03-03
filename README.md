@@ -40,18 +40,25 @@ Compares BIRP vs URP Pipeline Performance across Low-End and High-End GPUs with 
 * Summary ([Link](https://github.com/stonstad/unity-birp-vs-urp-performance/raw/refs/heads/main/Results/Summary.xlsx))
 
 CPU, GPU, and Total Frame Timing
-
+<br/>
+<img src="https://github.com/stonstad/unity-birp-vs-urp-performance/blob/main/Results/frame_timing.png?raw=true"/>
 
 Percentage Change
-
+<br/>
+<img src="https://github.com/stonstad/unity-birp-vs-urp-performance/blob/main/Results/percentage_change.png?raw=true"/>
 
 Data Visualized
-
+<br/>
+<img src="https://github.com/stonstad/unity-birp-vs-urp-performance/blob/main/Results/data_visualized.png?raw=true"/>
 
 Frame Rate
+<br/>
+<img src="https://github.com/stonstad/unity-birp-vs-urp-performance/blob/main/Results/frame_rate.png?raw=true"/>
 
 
 Build Time
+<br/>
+<img src="https://github.com/stonstad/unity-birp-vs-urp-performance/blob/main/Results/build_time.png?raw=true" width="500"/>
 
 
 
