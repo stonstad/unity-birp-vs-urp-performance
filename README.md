@@ -60,7 +60,9 @@ Build Time
 <br/>
 <img src="https://github.com/stonstad/unity-birp-vs-urp-performance/blob/main/Results/build_time.png?raw=true" width="500"/>
 
-
+Cheers,
+<br/>
+[https://x.com/ShaunTonstad](https://x.com/ShaunTonstad)
 
 
 
