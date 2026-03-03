@@ -1,0 +1,124 @@
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.3.10f1 (e35f0c77bd8e)
+[Subsystems] Discovering subsystems at path D:/Source/CameraOverhead-SRP/Build/CameraOverhead-SRP_Data/UnitySubsystems
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; kGfxThreadingModeClientWorkerJobs
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4090 (ID=0x2684)
+    Vendor:   NVIDIA
+    VRAM:     24142 MB
+    Driver:   32.0.15.9186
+[D3D12 Device Filter] Vendor Name: NVIDIA
+[D3D12 Device Filter] Device Name: NVIDIA GeForce RTX 4090
+[D3D12 Device Filter] Driver Version: 32.0.15.9186
+[D3D12 Device Filter] Feature Level: 12.2
+[D3D12 Device Filter] Graphics Memory: 24142 MB
+[D3D12 Device Filter] Processor Count: 32
+[D3D12 Device Filter] Device Type: Discrete
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+Using Windows.Gaming.Input
+UnloadTime: 0.126200 ms
+CPU 1.40ms | GPU 0.76ms | Frame 8.98ms | FPS 349.7
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.07ms | GPU 0.75ms | Frame 1.10ms | FPS 907.1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.06ms | GPU 0.75ms | Frame 1.10ms | FPS 909.3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.06ms | GPU 0.75ms | Frame 1.10ms | FPS 910.1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.12ms | GPU 0.77ms | Frame 1.16ms | FPS 865.3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.12ms | GPU 0.77ms | Frame 1.16ms | FPS 864.9
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.12ms | GPU 0.77ms | Frame 1.16ms | FPS 864.2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.12ms | GPU 0.77ms | Frame 1.16ms | FPS 862.2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.08ms | GPU 0.75ms | Frame 1.11ms | FPS 899.3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.07ms | GPU 0.75ms | Frame 1.11ms | FPS 903.0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.07ms | GPU 0.75ms | Frame 1.11ms | FPS 902.5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.07ms | GPU 0.75ms | Frame 1.10ms | FPS 905.5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.11ms | GPU 0.76ms | Frame 1.15ms | FPS 873.3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.12ms | GPU 0.76ms | Frame 1.15ms | FPS 867.6
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 1.12ms | GPU 0.77ms | Frame 1.16ms | FPS 863.6
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
