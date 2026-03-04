@@ -2,7 +2,7 @@ Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
 Initialize engine version: 6000.3.10f1 (e35f0c77bd8e)
-[Subsystems] Discovering subsystems at path D:/Source/CameraOverhead-SRP/Build/CameraOverhead-SRP_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Source/SRP Build/CameraOverhead-SRP_Data/UnitySubsystems
 Forcing GfxDevice: Direct3D 12
 GfxDevice: creating device client; kGfxThreadingModeSplitJobs
 d3d12: failed to query info queue interface (0x80004002).
@@ -28,134 +28,38 @@ Direct3D:
 [Physics::Module] Threading Mode: Multi-Threaded
 <RI> Initializing input.
 Using Windows.Gaming.Input
-UnloadTime: 0.112200 ms
-CPU 2.19ms | GPU 0.79ms | Frame 13.76ms | FPS 227.7
+UnloadTime: 0.105400 ms
+CPU 1.78ms | GPU 0.69ms | Frame 11.42ms | FPS 278.8
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 1.61ms | GPU 0.81ms | Frame 1.64ms | FPS 611.3
+CPU 1.35ms | GPU 0.72ms | Frame 1.37ms | FPS 730.4
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 1.62ms | GPU 0.82ms | Frame 1.64ms | FPS 608.8
+CPU 1.36ms | GPU 0.74ms | Frame 1.38ms | FPS 723.1
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 1.61ms | GPU 0.83ms | Frame 1.63ms | FPS 613.2
+CPU 1.38ms | GPU 0.75ms | Frame 1.39ms | FPS 717.4
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 1.61ms | GPU 0.83ms | Frame 1.63ms | FPS 614.9
+CPU 1.39ms | GPU 0.74ms | Frame 1.41ms | FPS 711.4
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 1.62ms | GPU 0.82ms | Frame 1.65ms | FPS 607.7
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.64ms | GPU 0.83ms | Frame 1.66ms | FPS 603.7
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.62ms | GPU 0.83ms | Frame 1.64ms | FPS 608.9
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.64ms | GPU 0.83ms | Frame 1.66ms | FPS 603.8
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.65ms | GPU 0.83ms | Frame 1.67ms | FPS 597.4
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.66ms | GPU 0.83ms | Frame 1.68ms | FPS 596.3
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.62ms | GPU 0.83ms | Frame 1.64ms | FPS 608.5
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.60ms | GPU 0.84ms | Frame 1.62ms | FPS 617.7
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.61ms | GPU 0.83ms | Frame 1.63ms | FPS 612.5
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.60ms | GPU 0.83ms | Frame 1.61ms | FPS 619.6
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.59ms | GPU 0.83ms | Frame 1.60ms | FPS 624.5
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.61ms | GPU 0.83ms | Frame 1.64ms | FPS 610.4
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.63ms | GPU 0.83ms | Frame 1.65ms | FPS 605.1
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.67ms | GPU 0.83ms | Frame 1.69ms | FPS 591.8
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.66ms | GPU 0.83ms | Frame 1.68ms | FPS 596.7
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.64ms | GPU 0.83ms | Frame 1.66ms | FPS 603.4
-UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-FrameTimingScript:Update()
-
-CPU 1.63ms | GPU 0.83ms | Frame 1.65ms | FPS 606.6
+CPU 1.36ms | GPU 0.74ms | Frame 1.38ms | FPS 724.1
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)

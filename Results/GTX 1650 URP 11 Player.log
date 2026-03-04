@@ -26,110 +26,170 @@ Direct3D:
 [Physics::Module] Threading Mode: Multi-Threaded
 <RI> Initializing input.
 Using Windows.Gaming.Input
-UnloadTime: 0.459800 ms
-CPU n/a | GPU n/a | Frame 1240.60ms | FPS 2.5
+UnloadTime: 0.687300 ms
+CPU 90.85ms | GPU 9.18ms | Frame 408.72ms | FPS 8.9
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 17.72ms | GPU 6.74ms | Frame 10.66ms | FPS 93.8
+CPU 8.91ms | GPU 5.09ms | Frame 8.83ms | FPS 113.3
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.39ms | GPU 5.06ms | Frame 9.43ms | FPS 106.0
+CPU 8.39ms | GPU 4.40ms | Frame 8.50ms | FPS 117.7
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.42ms | GPU 5.08ms | Frame 9.55ms | FPS 104.7
+CPU 8.41ms | GPU 4.42ms | Frame 8.53ms | FPS 117.2
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.36ms | GPU 5.07ms | Frame 9.45ms | FPS 105.8
+CPU 8.75ms | GPU 4.40ms | Frame 8.95ms | FPS 111.7
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.39ms | GPU 5.07ms | Frame 9.46ms | FPS 105.7
+CPU 8.28ms | GPU 4.43ms | Frame 8.38ms | FPS 119.3
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.49ms | GPU 5.11ms | Frame 9.59ms | FPS 104.3
+CPU 8.15ms | GPU 4.42ms | Frame 8.21ms | FPS 121.8
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.36ms | GPU 5.09ms | Frame 9.43ms | FPS 106.1
+CPU 8.28ms | GPU 4.44ms | Frame 8.34ms | FPS 119.9
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.39ms | GPU 5.10ms | Frame 9.45ms | FPS 105.8
+CPU 8.19ms | GPU 4.42ms | Frame 8.23ms | FPS 121.5
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.43ms | GPU 5.09ms | Frame 9.51ms | FPS 105.1
+CPU 8.26ms | GPU 4.43ms | Frame 8.34ms | FPS 119.9
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.38ms | GPU 5.09ms | Frame 9.44ms | FPS 106.0
+CPU 8.30ms | GPU 4.42ms | Frame 8.36ms | FPS 119.7
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.42ms | GPU 5.13ms | Frame 9.50ms | FPS 105.3
+CPU 8.27ms | GPU 4.42ms | Frame 8.32ms | FPS 120.2
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.40ms | GPU 5.10ms | Frame 9.50ms | FPS 105.2
+CPU 8.65ms | GPU 4.45ms | Frame 8.80ms | FPS 113.6
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.39ms | GPU 5.12ms | Frame 9.44ms | FPS 106.0
+CPU 8.85ms | GPU 4.43ms | Frame 8.94ms | FPS 111.8
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.38ms | GPU 5.12ms | Frame 9.47ms | FPS 105.5
+CPU 8.19ms | GPU 4.46ms | Frame 8.27ms | FPS 120.9
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.39ms | GPU 5.12ms | Frame 9.47ms | FPS 105.6
+CPU 8.21ms | GPU 4.44ms | Frame 8.24ms | FPS 121.4
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.48ms | GPU 5.14ms | Frame 9.55ms | FPS 104.7
+CPU 8.21ms | GPU 4.46ms | Frame 8.25ms | FPS 121.2
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 FrameTimingScript:Update()
 
-CPU 9.43ms | GPU 5.12ms | Frame 9.53ms | FPS 104.9
+CPU 8.19ms | GPU 4.45ms | Frame 8.25ms | FPS 121.1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 8.21ms | GPU 4.46ms | Frame 8.28ms | FPS 120.7
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 8.50ms | GPU 4.43ms | Frame 8.59ms | FPS 116.3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 8.43ms | GPU 4.44ms | Frame 8.55ms | FPS 116.9
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 8.24ms | GPU 4.47ms | Frame 8.28ms | FPS 120.8
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 8.20ms | GPU 4.47ms | Frame 8.25ms | FPS 121.2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 8.25ms | GPU 4.49ms | Frame 8.29ms | FPS 120.6
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 8.21ms | GPU 4.47ms | Frame 8.26ms | FPS 121.1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 8.20ms | GPU 4.49ms | Frame 8.26ms | FPS 121.1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 8.24ms | GPU 4.47ms | Frame 8.26ms | FPS 121.0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+FrameTimingScript:Update()
+
+CPU 8.23ms | GPU 4.49ms | Frame 8.27ms | FPS 121.0
 UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
