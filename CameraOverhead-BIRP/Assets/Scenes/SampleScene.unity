@@ -689,7 +689,7 @@ GameObject:
   - component: {fileID: 2021973592}
   - component: {fileID: 2021973591}
   m_Layer: 0
-  m_Name: Main Camera 4 - RT
+  m_Name: Main Camera 3 - RT
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
